@@ -17,7 +17,7 @@
 #
 # Now you can point your browser to http://localhost:8000
 
-FROM ubuntu:latest
+#FROM ubuntu:latest
 
 ENV DEBIAN_FRONTEND noninteractive
 
